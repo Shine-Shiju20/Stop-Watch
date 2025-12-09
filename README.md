@@ -12,12 +12,13 @@ Click "Stop" to pause the timer.
 Click "Reset" to set the timer back to zero.
 
 Technology Stack:
-HTML CSS JavaScript
+HTML 
+CSS 
+JavaScript
 
 Further Development:
 This is a basic implementation. Feel free to explore adding features like: Lap functionality Split functionality Responsive design. 
 
-LinkedIn: https://www.linkedin.com/posts/shine-shiju-821652256_skillcrafttechnology-activity-7264701726631305216-cAY5?utm_source=share&
 
 Author- SHINE SHIJU 
 shineshiju2005@gmail.com 
