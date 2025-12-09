@@ -1,26 +1,55 @@
-This repository contains a basic stopwatch application built with HTML, CSS, and JavaScript.
+# Simple Stopwatch
+A lightweight, browser-based stopwatch application built with vanilla JavaScript, HTML, and CSS. This project provides a simple interface to track time in minutes, seconds, and tens of milliseconds.
 
-About the App:
-Allows you to start, stop, and reset the timer. Displays elapsed time in hours, minutes and seconds. 
+![Stopwatch Preview](https://github.com/user-attachments/assets/1bc2d49e-06bd-40e3-9157-e0459ecdf0fe)
 
-Getting Started:
-Clone this repository to your local machine. Open the HTML file in your web browser.
+## Features
 
-How to Use:
-Click the "Start" button to begin the timer. 
-Click "Stop" to pause the timer. 
-Click "Reset" to set the timer back to zero.
+- **Precise Timing:** Tracks time in `MM:SS:MS` format.
+- **Controls:**
+  - **Start:** Begins the timer loop.
+  - **Stop:** Pauses the timer without resetting the values.
+  - **Reset:** Stops the timer and clears all values back to `00:00:00`.
+- **Design:** Centered, responsive layout with a backdrop image.
 
-Technology Stack:
-HTML 
-CSS 
-JavaScript
+## Tech Stack
 
-Further Development:
-This is a basic implementation. Feel free to explore adding features like: Lap functionality Split functionality Responsive design. 
+- **HTML5:** Semantic structure.
+- **CSS3:** Flexbox for layout and styling.
+- **JavaScript (ES6):** DOM manipulation and `setInterval` logic for timing events.
 
+## Project Structure
 
-Author- SHINE SHIJU 
-shineshiju2005@gmail.com 
+The project is self-contained within a single HTML file for ease of use, though it references a background image.
 
-![Stopwatch ](https://github.com/user-attachments/assets/1bc2d49e-06bd-40e3-9157-e0459ecdf0fe)
+```text
+├── Stopwatch.html      # Contains HTML, CSS, and Logic
+├── images.jpeg         # Background image (Required for styling)
+└── README.md           # Project documentation
+```
+## Getting Started
+Prerequisites
+You only need a modern web browser (Chrome, Firefox, Safari, Edge) to run this application.
+
+Installation & Run
+Clone the repository:
+
+```Bash
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+```
+
+Navigate to the folder:
+
+```Bash
+cd your-repo-name
+```
+## Launch the App
+
+Navigate to the folder in your file explorer.
+
+Double-click Stopwatch.html to open it in your default browser.
+
+This is a basic implementation. Feel free to fork the repository and submit pull requests. 
+
+## Author
+SHINE SHIJU
